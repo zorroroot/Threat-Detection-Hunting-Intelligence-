@@ -1,2 +1,2 @@
-# Threat-Hunting-
+# Threat-Detection-Hunting-Intelligence
 Threat Detection and Hunting Notes 
